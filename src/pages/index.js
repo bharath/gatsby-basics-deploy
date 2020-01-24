@@ -9,7 +9,7 @@ export default () => (
 
 	<Layout>
 		<SEO title="Welcome to our Site!" />
-		<h1>Hello World</h1>
+		<h1>Welcome</h1>
 		<img src={gatsbyAstronaut} alt="A Gatsby Astronaut" style={{width: `200px`}}/>
 		<p>
 			Read more <Link to={"/about"}>about me</Link>
